@@ -1,1 +1,2 @@
 # seventh-brain-teaser
+A family of seven consist of three boys and two girls. The boys are fond of walking with subjects like maths, physics and english constantly. The girls are also fond of working on health science and mathematics. At some points, the boys figured out that most if their contexts in terms of styling, revolve aroind four important family types. The girls also realised at some point that all what they focus on revolve around five different family types.
